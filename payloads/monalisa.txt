@@ -257,3 +257,5 @@ DELAY 250
 ENTER
 DELAY 250
 ENTER
+STRING  an ascii art version of the Mona Lisa
+ENTER
